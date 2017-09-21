@@ -1,7 +1,7 @@
 %% this is to analynize the the flexibility of the node across different mental state
 %% begin with the WM (0bk and 2bk) task and its resting
 
-%% 1. Task the average of the LR/RL, based on Reviewer #3, after Fisher-z transform
+%% 1. Task the average of the LR/RL, after Fisher-z transform
 %% 2. Remove-head and Append-tail to reduce HRF delay, by HeYong-YangYihong PNAS paper
 %% 3. Remove the mean activity from the time series
 %% Date: Oct. 20, 2016
